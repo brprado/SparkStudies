@@ -1,3 +1,5 @@
 pyspark
 pandas
 numpy
+apache-airflow 
+apache-airflow-providers-apache-spark 
